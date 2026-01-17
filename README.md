@@ -11,7 +11,6 @@
 <img alt="html5" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=plastic">
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=plastic)](#)
 
-<hr>
 
 ⚙️ Backend <br> <br>
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&style=plastic)](#)
@@ -20,7 +19,9 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=plastic)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
-<hr>
 
 🧠 Programming <br> <br>
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=plastic)](#)
+
+<hr>
+
